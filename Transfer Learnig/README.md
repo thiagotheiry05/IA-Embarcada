@@ -1,2 +1,2 @@
-# Disciplina de Inteligencia Artificial Embarcada
-Repositório onde irá conter todos os arquivos e trabalhos do semestre 
+# Códigos utilizados para fazer realizar a atividade de transfer learning
+
